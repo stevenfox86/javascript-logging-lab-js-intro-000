@@ -1,3 +1,4 @@
 console.error("HALP!")
-console.warn("OH NO!")
 console.log("RECORD INFO!")
+console.warn("OH NO!")
+
